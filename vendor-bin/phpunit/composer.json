@@ -2,6 +2,6 @@
     "require-dev": {
         "phpunit/phpunit": "9.5.4",
         "vimeo/psalm": "4.6.4",
-        "psalm/plugin-phpunit": "0.15.1"
+        "psalm/plugin-phpunit": "0.16.1"
     }
 }
